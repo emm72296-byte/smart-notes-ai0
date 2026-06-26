@@ -1,0 +1,6 @@
+{
+  "name": "Smart Notes AI",
+  "description": "An AI-powered workspace with cognitive labs, timelines, mind maps, concept trees, study centers, Kanban, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
